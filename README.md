@@ -1,32 +1,108 @@
-<h1 align="center">Hi 👋, I'm Syed Muhammad Shaheer Ali</h1>
-<h3 align="center">A Passionate AI and Machine Learning Student and Hobbyist Game devFrom Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheer4li&label=Profile%20views&color=0e75b6&style=flat" alt="shaheer4li" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaheer4li" alt="shaheer4li" /></a> </p>
-
-- 🌱 I’m currently learning **Machine learning, Python and Computer Networking**
-
-- 👯 I’m looking to collaborate on **Pygames projects, Machine Learning projects**
-
-- 💬 Ask me about **Java, Python, Pygames, Javafx, C++, DBMS and DSA**
-
-- 📫 How to reach me **shaheerezy@gmail.com**
-
-- ⚡ Fun fact **My Communication skill is Not better than Mr.Bean, but good thing I am working to make it better**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/syed-muhammad-shaheer-ali-98b3863a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaheer4li" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaheer4li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaheer4li" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/71500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="71500" height="30" width="40" /></a>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Syed+Muhammad+Shaheer+Ali;AI+%7C+Machine+Learning+Student;Game+Dev+%7C+Problem+Solver;Building+My+Future+With+Code" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheer4li&show_icons=true&locale=en&layout=compact" alt="shaheer4li" /></p>
+# 🧠 Who Am I?
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheer4li&show_icons=true&locale=en" alt="shaheer4li" /></p>
+🎓 AI & Machine Learning Student  
+🎮 Hobbyist Game Developer  
+💻 Passionate about solving real-world problems using AI  
+🌍 Based in Pakistan  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer4li&" alt="shaheer4li" /></p>
+> “Not the best communicator (yet), but definitely a relentless learner.”
+
+---
+
+# 🚀 Current Mission
+
+- 🔭 Building strong foundations in **Machine Learning**
+- 🐍 Mastering **Python**
+- 🌐 Exploring **Computer Networking**
+- 🎮 Developing small games with **Pygame**
+- 🧩 Practicing DSA daily
+
+---
+
+# 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github" />
+</p>
+
+---
+
+# 📂 Project Showcase
+
+---
+
+## 🟢 Beginner Projects (Foundation Building)
+
+These projects represent my early learning journey.
+
+- 🔹 Basic Calculator App  
+- 🔹 Console-based Library Management System  
+- 🔹 Simple Pygame Mini Game  
+- 🔹 JavaFX GUI Application  
+- 🔹 MySQL CRUD Practice Project  
+
+---
+
+## 🔵 Professional / Real Projects (Serious Work)
+
+These projects focus on real-world application & scalability.
+
+- 🤖 Machine Learning Model Implementations  
+- 📊 Data Analysis Projects using Python  
+- 🎮 Advanced Pygame Projects  
+- 🧠 AI-based Problem Solving Systems  
+- 🌐 Networking Simulations  
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheer4li&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer4li&theme=radical" />
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+- 🟡 LeetCode Enthusiast  
+- 🔴 TopCoder Competitor  
+- 🧠 DSA Explorer  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/syed-muhammad-shaheer-ali-98b3863a0/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.leetcode.com/shaheer4li" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+</a>
+<a href="https://www.topcoder.com/members/71500" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" height="40"/>
+</a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+While my communication skills may not rival Mr. Bean 😄  
+My debugging skills definitely do.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</p>
