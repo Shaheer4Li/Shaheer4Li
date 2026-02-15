@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=120&section=header"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
+
 
 ---
 
@@ -80,7 +81,6 @@ A Classic Snake game with zombie twist
 
 ---
 
-# 🌍 Connect With Me
 
 # 🌍 Connect With Me
 
@@ -91,7 +91,7 @@ A Classic Snake game with zombie twist
 </a>
 
 <a href="https://leetcode.com/shaheer4li/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="40" />
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" height="30"/>
 </a>
 
 </p>
