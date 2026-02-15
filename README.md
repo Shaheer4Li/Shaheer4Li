@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21d4fd,100:b721ff&height=200&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJicnZueXp4eTY0eHNoZzZueXp4eTY0eHNoZzZueXp4eTY0eHNoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%" height="100px" style="object-fit: cover;" />
 </p>
 
 ---
