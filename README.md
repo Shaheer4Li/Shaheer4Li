@@ -82,17 +82,20 @@ A Classic Snake game with zombie twist
 
 # 🌍 Connect With Me
 
+# 🌍 Connect With Me
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/syed-muhammad-shaheer-ali-98b3863a0/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://www.leetcode.com/shaheer4li" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
+<a href="https://leetcode.com/shaheer4li/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="40" />
 </a>
 
 </p>
+
 
 
 ---
