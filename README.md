@@ -18,7 +18,8 @@ Field: Artificial Intelligence
 Focus: Machine Learning + Game Development
 Location: Pakistan
 Goal: Become a Highly Skilled AI Engineer
-Mindset: Consistency beats motivation
+Mindset: You are not at wrong place You are exactly where
+Allah wants you to be 
 ```
 
 🎓 AI & Machine Learning Student  
@@ -52,21 +53,13 @@ Mindset: Consistency beats motivation
 
 ## 🧟 Brain Eater Zombie Game
 
-A zombie survival game built using **Pygame** where players survive against waves of brain-eating zombies.
+A Classic Snake game with zombie twist
 
-### 🔥 Features
-- Real-time movement system  
-- Enemy AI behavior  
-- Collision detection  
-- Health & survival mechanics  
-- Progressive difficulty scaling  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
-</p>
+ <img src="https://github.com/Shaheer4Li/Brain-eaters/blob/main/asset/BLOODY.TTF&theme=tokyonight&hide_border=true" />
 
 🔗 **Repository Link:**  
-👉 https://github.com/shaheer4li/REPLACE-WITH-YOUR-REPO-LINK
+👉 https://github.com/Shaheer4Li/Brain-eaters
 
 ---
 
@@ -83,7 +76,6 @@ A zombie survival game built using **Pygame** where players survive against wave
 # 🧠 Competitive Programming
 
 - 🟡 Active on LeetCode  
-- 🔴 TopCoder Competitor  
 - 🧩 Daily DSA Practice  
 
 ---
@@ -95,10 +87,7 @@ A zombie survival game built using **Pygame** where players survive against wave
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://www.leetcode.com/shaheer4li" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
-</a>
-<a href="https://www.topcoder.com/members/71500" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" height="40"/>
+<img src="https://iconscout.com/free-icon/free-leetcode-logo-icon_2944960" height="40"/>
 </a>
 </p>
 
@@ -107,15 +96,10 @@ A zombie survival game built using **Pygame** where players survive against wave
 # ⚡ Fun Fact
 
 My communication skills may not rival Mr. Bean 😄  
-But my coding definitely last longer.
+But my debugging sessions definitely last longer.
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00F7FF&height=120&section=footer"/>
-</p>
 
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</p>
