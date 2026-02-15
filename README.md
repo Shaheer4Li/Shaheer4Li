@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=Syed+Muhammad+Shaheer+Ali;Artificial+Intelligence+Student;Machine+Learning+Explorer;Game+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Reality+With+Code" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJicnZueXp4eTY0eHNoZzZueXp4eTY0eHNoZzZueXp4eTY0eHNoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%" height="100px" style="object-fit: cover;" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=120&section=header"/> </p>
 
 ---
 
