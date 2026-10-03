@@ -1,129 +1,210 @@
-<!-- ===================== HERO SECTION ===================== -->
+ <!--
+  SYED MUHAMMAD SHAHEER ALI
+  GitHub Profile README
+  Theme: Midnight Terminal / Cyan
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=Syed+Muhammad+Shaheer+Ali;Artificial+Intelligence+Student;Machine+Learning+Explorer;Game+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Reality+With+Code" />
-</p>
+<div align="center">
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=120&section=header"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=SHAHEER4LI&fontSize=55&fontColor=00F7FF&stroke=00F7FF&strokeWidth=1&animation=fadeIn&color=0:080B16,100:111C35" width="100%" alt="Shaheer4Li — Midnight Terminal"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=600&height=35&lines=Artificial+Intelligence+Student;Building+Things+That+Actually+Work;Python+%7C+Web+Development+%7C+Game+Dev;Learning.+Building.+Improving." alt="Typing introduction"/>
+</a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Shaheer4Li-0D1117?style=flat-square\&logo=github\&logoColor=00F7FF)](https://github.com/Shaheer4Li)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/syed-muhammad-shaheer-ali-98b3863a0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-0D1117?style=flat-square\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/shaheer4li/)
+
+</div>
 
 ---
 
-# 🧠 About Me
+### `01 / WHO AM I?`
 
-```yaml
-Name: Syed Muhammad Shaheer Ali
-Field: Artificial Intelligence
-Focus: Machine Learning + Game Development
-Location: Pakistan
-Goal: Become a Highly Skilled AI Engineer
-Mindset: You are not at wrong place You are exactly where
-Allah wants you to be 
+```python
+class Shaheer:
+    name = "Syed Muhammad Shaheer Ali"
+    location = "Pakistan"
+    education = "BS Artificial Intelligence"
+
+    interests = [
+        "Machine Learning",
+        "Web Development",
+        "Game Development",
+        "Data Structures & Algorithms"
+    ]
+
+    current_mission = "Turn ideas into working software"
 ```
 
-🎓 AI & Machine Learning Student  
-🎮 Hobbyist Game Developer  
-🧩 DSA Practitioner  
-🚀 Passionate about building intelligent systems  
+I'm an Artificial Intelligence student who enjoys building things with code — from small Python games to full-stack web projects.
 
-> Improving every single day.
+I believe the best way to learn programming is to **build something, break it, understand why, and make it better.**
 
----
+Currently exploring the intersection of AI, software development, and creative problem-solving.
 
-# ⚡ What I'm Currently Working On
-
-- 🤖 Learning Machine Learning algorithms
-- 🐍 Strengthening Python fundamentals
-- 🌐 Exploring Computer Networking
-- 🎮 Developing games using Pygame
-- 📈 Practicing Data Structures & Algorithms
+> *"You are not in the wrong place. You are exactly where Allah wants you to be."*
 
 ---
 
-# 🛠️ Tech Stack
+### `02 / CURRENT OPERATIONS`
 
-<p align="center">
- <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode,flask,html,css,javascript,sqlite" alt="Languages and Tools" /> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" /> />
-</p>
-
----
-
-# 🎮 Project Showcase
-
-## 🧟 Brain Eater Zombie Game
-
-A Classic Snake game with zombie twist
-
-
- <img src="https://github.com/Shaheer4Li/Brain-eaters/blob/main/asset/BLOODY.TTF&theme=tokyonight&hide_border=true" />
-
-🔗 **Repository Link:**  
-👉 https://github.com/Shaheer4Li/Brain-eaters
+| Area       | Current focus                                   |
+| :--------- | :---------------------------------------------- |
+| `AI / ML`  | Learning machine learning and data analysis     |
+| `WEB`      | Building with HTML, CSS, JavaScript and Flask   |
+| `PYTHON`   | Strengthening fundamentals and practical skills |
+| `DSA`      | Practicing problem-solving on LeetCode          |
+| `GAME DEV` | Experimenting with game mechanics and Pygame    |
 
 ---
 
-## 🎮 GameDb
+### `03 / TECH ARSENAL`
 
-A library to store and keep track of your game
+<div align="center">
 
+**LANGUAGES**
 
-🔗 **Repository Link:**  
-👉 https://github.com/Shaheer4Li/Gamedb
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&theme=dark" alt="Python, Java, C++, JavaScript, HTML and CSS"/>
 
-## 📃 Task Manager
+**WEB DEVELOPMENT & DATABASES**
 
-A simple todo-list web app
+<img src="https://skillicons.dev/icons?i=flask,sqlite,mysql&theme=dark" alt="Flask, SQLite and MySQL"/>
 
+**TOOLS & ENVIRONMENT**
 
-🔗 **Repository Link:**  
-👉 https://github.com/Shaheer4Li/To-do-List
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
 
-🔗 **website Link:**  
-👉 https://shaheer4li.github.io/To-do-List/
+**DATA & VISUALIZATION**
 
----
-# 📊 GitHub Stats
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E2A7FF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00F7FF" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=9AC8FF" alt="Seaborn"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheer4li&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer4li&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-# 🧠 Competitive Programming
+### `04 / SELECTED BUILDS`
 
-- 🟡 Active on LeetCode  
-- 🧩 Daily DSA Practice  
+Three projects. Three different problems. More experiments on the way.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/syed-muhammad-shaheer-ali-98b3863a0/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://github.com/Shaheer4Li/Gamedb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheer4Li&repo=Gamedb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="100%" alt="GameDB repository card"/>
 </a>
 
-<a href="https://leetcode.com/shaheer4li/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" height="30"/>
+**🎮 GameDB — Your Personal Game Library**
+
+A personal game-tracking website inspired by movie logging platforms. Keep a record of the games you've played and organize your gaming collection.
+
+`Flask` `SQLite` `HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Shaheer4Li/Brain-eaters">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheer4Li&repo=Brain-eaters&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="100%" alt="Brain Eaters repository card"/>
 </a>
 
-</p>
+**🧟 Brain Eaters — Snake with a Twist**
 
+A classic Snake-inspired game with a zombie twist. A hands-on Python game development project.
 
+`Python` `Pygame`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<a href="https://github.com/Shaheer4Li/To-do-List">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheer4Li&repo=To-do-List&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="49%" align="left" alt="Task Manager repository card"/>
+</a>
+
+**📝 Task Manager — Simple, Useful, Functional**
+
+A lightweight to-do web application built to practice DOM manipulation, event handling, and interactive front-end development.
+
+`HTML` `CSS` `JavaScript`
+
+<br clear="all"/>
+
+<div align="center">
+
+[**↗ Open Live Website**](https://shaheer4li.github.io/To-do-List/)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Fun Fact
+### `05 / GITHUB TELEMETRY`
 
-My communication skills may not rival Mr. Bean 😄  
-But my debugging sessions definitely last longer.
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Shaheer4Li&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&ring_color=00F7FF&include_all_commits=true" width="49%" alt="GitHub statistics"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaheer4Li&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF9E64&currStreakLabel=00F7FF" width="49%" alt="GitHub contribution streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer4Li&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" width="48%" alt="Most-used programming languages"/>
+
+</div>
+
+---
+
+### `06 / PROBLEM-SOLVING MODE`
+
+<div align="center">
+
+<a href="https://leetcode.com/shaheer4li/">
+  <img src="https://img.shields.io/badge/LeetCode-Shaheer4Li-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Visit LeetCode profile"/>
+</a>
+
+<br/><br/>
+
+I practice Data Structures & Algorithms to sharpen my logic, improve my problem-solving skills, and become a better programmer.
+
+**One problem at a time. One concept at a time.**
+
+</div>
+
+---
+
+### `07 / ESTABLISH CONNECTION`
+
+<div align="center">
+
+Have an interesting project, an idea worth building, or an opportunity to collaborate? Let's connect.
+
+<a href="https://www.linkedin.com/in/syed-muhammad-shaheer-ali-98b3863a0/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://github.com/Shaheer4Li">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Explore GitHub projects"/>
+</a>
+
+<br/><br/>
 
 
+<br/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Funny programming moment"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00F7FF&height=90&section=footer" width="100%" alt="Cyan and blue footer"/>
+
+<sub>Designed with curiosity, powered by Python, and improved one commit at a time.</sub>
+
+</div>
