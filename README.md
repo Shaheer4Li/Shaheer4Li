@@ -61,6 +61,26 @@ A Classic Snake game with zombie twist
 
 ---
 
+## 🎮 GameDb
+
+A library to store and keep track of your game
+
+
+🔗 **Repository Link:**  
+👉 https://github.com/Shaheer4Li/Gamedb
+
+## 📃 Task Manager
+
+A simple todo-list web app
+
+
+🔗 **Repository Link:**  
+👉 https://github.com/Shaheer4Li/To-do-List
+
+🔗 **website Link:**  
+👉 https://shaheer4li.github.io/To-do-List/
+
+---
 # 📊 GitHub Stats
 
 <p align="center">
