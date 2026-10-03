@@ -42,7 +42,7 @@ Allah wants you to be
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode,flask,html,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode,flask,html,css,javascript,numpy,pandas,sqlite,matplotlib,seaborn" />
 </p>
 
 ---
