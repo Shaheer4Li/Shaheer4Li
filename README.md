@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=SHAHEER4LI&fontSize=55&fontColor=00F7FF&stroke=00F7FF&strokeWidth=1&animation=fadeIn&color=0:080B16,100:111C35" width="100%" alt="Shaheer4Li — Midnight Terminal"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=600&height=35&lines=Artificial+Intelligence+Student;Building+Things+That+Actually+Work;Python+%7C+Web+Development+%7C+Game+Dev;Learning.+Building.+Improving." alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=600&height=35&lines=Artificial+Intelligence+Student;Building+Things+That+Actually+Work;Python+%7C+Machin+Learning+%7C+Web+Development+%7C+Game+Dev;Learning.+Building.+Improving." alt="Typing introduction"/>
 </a>
 
 <br/>
