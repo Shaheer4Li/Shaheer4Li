@@ -42,7 +42,7 @@ Allah wants you to be
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode,flask,html,css,javascript,numpy,pandas,sqlite,matplotlib,seaborn" />
+ <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode,flask,html,css,javascript,sqlite" alt="Languages and Tools" /> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" /> />
 </p>
 
 ---
